@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inout-section{
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+#inputArray {
+    padding: 8px 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.inout-section button {
+    background-color: black;
+    padding: 8px 10px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#totalunits {
+    text-align: center;
+}
