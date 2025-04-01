@@ -39,5 +39,5 @@ below is the main logic to calculate the water levels
 **Ouput Results **: 
 ![image](https://github.com/user-attachments/assets/8ab1ad49-bf89-47d2-a590-2edeab07b8b2)
 
-![image](https://github.com/user-attachments/assets/c6b721be-2d6c-4b87-8298-fcf69065fa06)
+![image](https://github.com/user-attachments/assets/0b1ac99c-cca1-4d25-a118-d9af69d099af)
 
